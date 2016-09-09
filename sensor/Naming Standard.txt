@@ -1,0 +1,37 @@
+All files in this directory will be named in the following manner:
+
+Sensor files will start with the key word "sensor", then sensor channels (2 digits minimum required for each), then PCB (if it is a PCB sensor), and end in the pattern type (3 letter).  If there is a naming collision, add a number at the end of the file to differentiate.
+
+
+Current possible pattern types:
+dia - diamond pattern
+TxP - TxP pattern
+
+
+Examples:
+
+A 12 by 9 channel transparent sensor using a diamond pattern:
+
+sensor_12x09_dia.h
+
+A 3 by 15 channel PCB sensor using a diamond pattern:
+
+sensor_03x15_PCB_dia.h
+
+A second 3 by 15 channel PCB sensor using a diamond pattern:
+
+sensor_03x15_PCB_dia_2.h
+
+
+
+
+Devkit hardware sensors will be named in the same way as all other sensors, with the addition of a devkit hardware title after the word "sensor".
+
+Example:
+
+The 12 by 9 sensor configuration for the PIC18F44K22 devkit hardware:
+
+sensor_MPK22V2_12x09_dia.h
+
+
+Note that devkit sensor files MAY contain multiple instances of configuration for the sensor depending upon devkit hardware features.  For example, Charge pump on and off, or different configurations for CTMU or CVD.  These will all be contained in the same file and configured via #define at the top of the file.

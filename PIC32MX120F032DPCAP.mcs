@@ -1,0 +1,162 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\mchp\dev\dev\MTCH6301_V2\output\main.o
+Folder=Intermediary
+DeviceName=PIC32MX120F032D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)|./output||$(AINDIR)||$(INCDIR)|.||$(LIBDIR)|C:\Program Files\Microchip\mplabc32\v2.01\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|main\main.c|main\init.c|pc\pc.c|pc\ColCache.c|pc\decode.c|comm\comm.c|hardware\pcap_hardware_pic32mx120F032d_dev.c|pc\signalProcessing.c|display\lcddisplay.c|pc\gestures.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -mips16 -DPCAPPIC32MX -DMTC6301 -O1
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=C:\mchp\dev\dev\MTCH6301_V2\output\init.o
+Folder=Intermediary
+DeviceName=PIC32MX120F032D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)|./output||$(AINDIR)||$(INCDIR)|.||$(LIBDIR)|C:\Program Files\Microchip\mplabc32\v2.01\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|main\main.c|main\init.c|pc\pc.c|pc\ColCache.c|pc\decode.c|comm\comm.c|hardware\pcap_hardware_pic32mx120F032d_dev.c|pc\signalProcessing.c|display\lcddisplay.c|pc\gestures.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -mips16 -DPCAPPIC32MX -DMTC6301 -O1
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=C:\mchp\dev\dev\MTCH6301_V2\output\pc.o
+Folder=Intermediary
+DeviceName=PIC32MX120F032D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)|./output||$(AINDIR)||$(INCDIR)|.||$(LIBDIR)|C:\Program Files\Microchip\mplabc32\v2.01\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|main\main.c|main\init.c|pc\pc.c|pc\ColCache.c|pc\decode.c|comm\comm.c|hardware\pcap_hardware_pic32mx120F032d_dev.c|pc\signalProcessing.c|display\lcddisplay.c|pc\gestures.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -mips16 -DPCAPPIC32MX -DMTC6301 -O1
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=C:\mchp\dev\dev\MTCH6301_V2\output\ColCache.o
+Folder=Intermediary
+DeviceName=PIC32MX120F032D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)|./output||$(AINDIR)||$(INCDIR)|.||$(LIBDIR)|C:\Program Files\Microchip\mplabc32\v2.01\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|main\main.c|main\init.c|pc\pc.c|pc\ColCache.c|pc\decode.c|comm\comm.c|hardware\pcap_hardware_pic32mx120F032d_dev.c|pc\signalProcessing.c|display\lcddisplay.c|pc\gestures.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -mips16 -DPCAPPIC32MX -DMTC6301 -O1
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=C:\mchp\dev\dev\MTCH6301_V2\output\decode.o
+Folder=Intermediary
+DeviceName=PIC32MX120F032D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)|./output||$(AINDIR)||$(INCDIR)|.||$(LIBDIR)|C:\Program Files\Microchip\mplabc32\v2.01\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|main\main.c|main\init.c|pc\pc.c|pc\ColCache.c|pc\decode.c|comm\comm.c|hardware\pcap_hardware_pic32mx120F032d_dev.c|pc\signalProcessing.c|display\lcddisplay.c|pc\gestures.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -mips16 -DPCAPPIC32MX -DMTC6301 -O1
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=C:\mchp\dev\dev\MTCH6301_V2\output\comm.o
+Folder=Intermediary
+DeviceName=PIC32MX120F032D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)|./output||$(AINDIR)||$(INCDIR)|.||$(LIBDIR)|C:\Program Files\Microchip\mplabc32\v2.01\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|main\main.c|main\init.c|pc\pc.c|pc\ColCache.c|pc\decode.c|comm\comm.c|hardware\pcap_hardware_pic32mx120F032d_dev.c|pc\signalProcessing.c|display\lcddisplay.c|pc\gestures.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -mips16 -DPCAPPIC32MX -DMTC6301 -O1
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=C:\mchp\dev\dev\MTCH6301_V2\output\pcap_hardware_pic32mx120F032d_dev.o
+Folder=Intermediary
+DeviceName=PIC32MX120F032D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)|./output||$(AINDIR)||$(INCDIR)|.||$(LIBDIR)|C:\Program Files\Microchip\mplabc32\v2.01\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|main\main.c|main\init.c|pc\pc.c|pc\ColCache.c|pc\decode.c|comm\comm.c|hardware\pcap_hardware_pic32mx120F032d_dev.c|pc\signalProcessing.c|display\lcddisplay.c|pc\gestures.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -mips16 -DPCAPPIC32MX -DMTC6301 -O1
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=C:\mchp\dev\dev\MTCH6301_V2\output\signalProcessing.o
+Folder=Intermediary
+DeviceName=PIC32MX120F032D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)|./output||$(AINDIR)||$(INCDIR)|.||$(LIBDIR)|C:\Program Files\Microchip\mplabc32\v2.01\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|main\main.c|main\init.c|pc\pc.c|pc\ColCache.c|pc\decode.c|comm\comm.c|hardware\pcap_hardware_pic32mx120F032d_dev.c|pc\signalProcessing.c|display\lcddisplay.c|pc\gestures.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -mips16 -DPCAPPIC32MX -DMTC6301 -O1
+TraceCmdString=
+DebugOptions=
+[File008]
+Location=C:\mchp\dev\dev\MTCH6301_V2\output\lcddisplay.o
+Folder=Intermediary
+DeviceName=PIC32MX120F032D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)|./output||$(AINDIR)||$(INCDIR)|.||$(LIBDIR)|C:\Program Files\Microchip\mplabc32\v2.01\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|main\main.c|main\init.c|pc\pc.c|pc\ColCache.c|pc\decode.c|comm\comm.c|hardware\pcap_hardware_pic32mx120F032d_dev.c|pc\signalProcessing.c|display\lcddisplay.c|pc\gestures.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -mips16 -DPCAPPIC32MX -DMTC6301 -O1
+TraceCmdString=
+DebugOptions=
+[File009]
+Location=C:\mchp\dev\dev\MTCH6301_V2\output\gestures.o
+Folder=Intermediary
+DeviceName=PIC32MX120F032D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)|./output||$(AINDIR)||$(INCDIR)|.||$(LIBDIR)|C:\Program Files\Microchip\mplabc32\v2.01\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|main\main.c|main\init.c|pc\pc.c|pc\ColCache.c|pc\decode.c|comm\comm.c|hardware\pcap_hardware_pic32mx120F032d_dev.c|pc\signalProcessing.c|display\lcddisplay.c|pc\gestures.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -mips16 -DPCAPPIC32MX -DMTC6301 -O1
+TraceCmdString=
+DebugOptions=
+[File010]
+Location=C:\mchp\dev\dev\MTCH6301_V2\.\output\PIC32MX120F032DPCAP.elf
+Folder=Output
+DeviceName=PIC32MX120F032D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-ld.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)|./output||$(AINDIR)||$(INCDIR)|.||$(LIBDIR)|C:\Program Files\Microchip\mplabc32\v2.01\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|main\main.c|main\init.c|pc\pc.c|pc\ColCache.c|pc\decode.c|comm\comm.c|hardware\pcap_hardware_pic32mx120F032d_dev.c|pc\signalProcessing.c|display\lcddisplay.c|pc\gestures.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map"
+TraceCmdString=
+DebugOptions=
+[File011]
+Location=C:\mchp\dev\dev\MTCH6301_V2\.\output\PIC32MX120F032DPCAP.hex
+Folder=Output
+DeviceName=PIC32MX120F032D
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-ld.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)|./output||$(AINDIR)||$(INCDIR)|.||$(LIBDIR)|C:\Program Files\Microchip\mplabc32\v2.01\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|main\main.c|main\init.c|pc\pc.c|pc\ColCache.c|pc\decode.c|comm\comm.c|hardware\pcap_hardware_pic32mx120F032d_dev.c|pc\signalProcessing.c|display\lcddisplay.c|pc\gestures.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map"
+TraceCmdString=
+DebugOptions=
+[TOOL_LOC_STAMPS]
+tool_loc{430F471F-7ECB-4852-A80D-DEF9A5C8E751}=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-gcc.exe
+tool_loc{C68E5105-1196-4333-A0BF-3DC57271E614}=C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin\pic32-ld.exe
